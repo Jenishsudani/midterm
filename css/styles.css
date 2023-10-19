@@ -25,13 +25,13 @@ main {
 }
 
 img {
-  border: 1px solid #ccc;
+  border: 1px solid #d76f6f;
   width: 90%;
   height: 80%;
 }
 
 figure {
-  background-color: #f0f0f0;
+  background-color: #f0f0f034;
   width: 45%;
   height: 60%;
   margin: auto;
@@ -53,16 +53,16 @@ section {
 figcaption {
   font-weight: bold;
   font-size: 18px;
-  color: #444;
+  color: #444444;
   padding: 5px;
 }
 
 a {
-  color: #0073e6;
+  color: #c0e600;
 }
 
 a:hover {
-  color: #0056b3;
+  color: #b3008c;
 }
 
 ul {
@@ -72,7 +72,6 @@ ul {
 
 header, footer {
   background-color: #0073e6;
-  color: #fff;
+  color: #9c0404;
 }
-
 
